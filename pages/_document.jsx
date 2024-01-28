@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Eğlence ve noderasyon.."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta name="twitter:site" content="@Eymencik" />
+          <meta name="twitter:creator" content="@Eymencik" />
+          <meta property="og:url" content="https://eymencik.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="Eymencik" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -29,7 +29,7 @@ class MyDocument extends Document {
             content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="Eymencik" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
